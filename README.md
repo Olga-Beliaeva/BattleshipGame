@@ -19,4 +19,4 @@ Customized Battleship game:
 
 - a tracking success table shows up after each success shot
 
-- a not-to-hit-one-cell-twice protection for both players
+- a not-to-hit-one-cell-twice protection set for both players
